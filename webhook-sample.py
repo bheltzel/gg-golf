@@ -1,0 +1,1 @@
+url = 'https://hooks.slack.com/services/x/y/z'
